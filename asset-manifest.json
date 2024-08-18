@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vm-pr/static/css/main.e904a96c.css",
+    "main.js": "/vm-pr/static/js/main.47704a3a.js",
+    "index.html": "/vm-pr/index.html",
+    "main.e904a96c.css.map": "/vm-pr/static/css/main.e904a96c.css.map",
+    "main.47704a3a.js.map": "/vm-pr/static/js/main.47704a3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e904a96c.css",
+    "static/js/main.47704a3a.js"
+  ]
+}
